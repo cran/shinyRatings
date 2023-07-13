@@ -1,0 +1,11 @@
+6d6c8984be0f56e01389629eb604031e *DESCRIPTION
+ba65ec80d73abdec847f9ed3bb947ec3 *LICENSE
+0b0fc964196db6fa36a504fcf55b941d *NAMESPACE
+efdb1b052343e6594a46c5707576ef9c *R/shinyRatings.R
+11262ac5aabf3414bd2254a36ae2fff9 *R/zzz.R
+57371b6cb4ea1164ec05fbfab5f6e461 *inst/exdata/shinyRatingsBinding.js
+18b2d3454802022e5c7d67eae92140ae *inst/exdata/style.css
+cddd326361f1f0d1bcae2a3a67e2cb10 *man/figures/output.gif
+353ae12b3e6f048beb220c6e91b176ed *man/shinyRatings.Rd
+ba14fa536a9852000787ea289309b226 *tests/testthat.R
+f912dfe980993f0e973dd91d289ce98b *tests/testthat/test-shinyRatings.R
